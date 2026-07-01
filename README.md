@@ -101,7 +101,7 @@ jupyter notebook project2.ipynb
 | Ali Ahmed | [@aliahmedd4](https://github.com/aliahmedd4) |
 | Ahmed Rashad | [@AhmedR18506](https://github.com/AhmedR18506) |
 | Asser Ehab | [@Asser16003477](https://github.com/Asser16003477) |
-| Ali Sherif | [@AliElghayesh16001891](https://github.com/AliElghayesh16001891) |
+| Ali Sherif | [@AliElghayesh16001891](https://github.com/AliElghayesh16006572) |
 
 ---
 
