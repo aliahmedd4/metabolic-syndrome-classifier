@@ -98,8 +98,8 @@ jupyter notebook project2.ipynb
 
 | Name | GitHub |
 |---|---|
-| Ali Sherif | — |
-| Ahmed Rashad | [@aliahmedd4](https://github.com/aliahmedd4) |
+| Ali Ahmed | [@aliahmedd4](https://github.com/aliahmedd4) |
+| Ahmed Rashad | — |
 | Asser Ehab | — |
 
 ---
