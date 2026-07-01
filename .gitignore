@@ -1,0 +1,31 @@
+# Datasets
+*.csv
+*.parquet
+data/raw/
+data/processed/
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env/
+
+# Credentials
+kaggle.json
+.env
+*.key
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
